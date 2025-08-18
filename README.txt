@@ -40,12 +40,12 @@ Designed for authorized security assessments ONLY.
 
 2. Input Fields (All Optional):
    ---------------------------------------------------------------------------------------
-   │      INPUT TYPE             |          EXAMPLE VALUES                               |
+   │          INPUT TYPE         |                    EXAMPLE VALUES                     |
    ---------------------------------------------------------------------------------------
-    | Personal                   | John, Doe, 15071990, 55501234                         |
-    | Professional               | Acme Corp, Manager                                    |
-    | Digital                    | reddit.com, xXJohnXx                                  |
-    | Multi-value (comma)        | gaming,hiking,blue,green                              |
+   |     Personal                |            John, Doe, 15071990, 55501234              |
+   |     Professional            |            Acme Corp, Manager                         |
+   |     Digital                 |            reddit.com, xXJohnXx                       |
+   |     Multi-value (comma)     |            gaming,hiking,blue,green                   |
    ---------------------------------------------------------------------------------------
 
 3. Generated Output:
