@@ -30,14 +30,19 @@ def clear_terminal():
 # --- Banner ---
 def show_banner():
     clear_terminal()
-    print(f"{ORANGE}  ╔═════════════════════════════════════════════════╗  ")
-    print(f"{ORANGE}  ║                   Victimator-X                  ║  ")
-    print(f"{ORANGE}  ╚═════════════════════════════════════════════════╝  ")
-    print(f"{BLUE}  ➤ Author: {ORANGE}voltsparx")
-    print(f"{BLUE}  ➤ Repo: {ORANGE}{REPO_URL}")
-    print(f"{BLUE}  ➤ Version: {ORANGE}1.0.0")
-    print(f"{BLUE}  ➤ License: {ORANGE}MIT")
-    print(f"{BLUE}  ➤ Contact: {ORANGE}voltsparx@gmail.com")
+    print(f"{ORANGE}  ╔═══════════════════════════════════════════════════════════════════╗  ")
+    print(f"{ORANGE}  ║   __     ___      _   _                 _                __  __   ║  ")
+    print(f"{ORANGE}  ║   \ \   / (_) ___| |_(_)_ __ ___   __ _| |_ ___  _ __    \ \/ /   ║  ")
+    print(f"{ORANGE}  ║    \ \ / /| |/ __| __| | '_ ` _ \ / _` | __/ _ \| '__|____\  /    ║  ")
+    print(f"{ORANGE}  ║     \ V / | | (__| |_| | | | | | | (_| | || (_) | | |_____/  \    ║  ")
+    print(f"{ORANGE}  ║      \_/  |_|\___|\__|_|_| |_| |_|\__,_|\__\___/|_|      /_/\_\   ║  ")
+    print(f"{ORANGE}  ║                                                                   ║  ")
+    print(f"{ORANGE}  ╚═══════════════════════════════════════════════════════════════════╝  ")
+    print(f"{BLUE}     ➤ Author: {ORANGE}voltsparx")
+    print(f"{BLUE}     ➤ Repo: {ORANGE}{REPO_URL}")
+    print(f"{BLUE}     ➤ Version: {ORANGE}1.0.0")
+    print(f"{BLUE}     ➤ License: {ORANGE}MIT")
+    print(f"{BLUE}     ➤ Contact: {ORANGE}voltsparx@gmail.com")
     print(f"{BLUE}{"\n\n"}{RESET}")
 
 # --- Input Handler ---
