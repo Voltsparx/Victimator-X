@@ -79,7 +79,7 @@ python3 victimator-x.py --hashcat --min 8 --max 16
 
 ---
 _____________________________________________________________________________________
-##| INPUT TYPE            | EXAMPLE VALUES                                            |
+| INPUT TYPE            | EXAMPLE VALUES                                            |
 |-----------------------------------------------------------------------------------|
 | Personal              | John, Doe, 15071990, 55501234                             |
 | Professional          | AcmeCorp, Manager                                         |
